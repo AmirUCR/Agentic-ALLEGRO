@@ -3,7 +3,7 @@ Our collaborators found configuring [ALLEGRO](https://github.com/ucrbioinfo/ALLE
 
 ALLEGRO has a big and confusing [config](https://github.com/AmirUCR/allegro-data/blob/master/config.yaml) – In an ideal world, you describe your experimental needs to the ghost in the machine, and [It Just Works™](https://youtu.be/qmPq00jelpc?t=8)
 
-Here's how it works:
+Here's how you can do exactly that:
 1. Get an [Anthropic API key](https://platform.claude.com/) (you need $5 for this) and SAVE it
 1. Set your API key for this terminal session: `export ANTHROPIC_API_KEY=sk-ant-api...`
 1. Clone this repo
