@@ -1,0 +1,4 @@
+.secrets
+allegro-data
+__pycache__
+allegro_config.yaml
