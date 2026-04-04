@@ -9,7 +9,7 @@ Here's how it works:
 1. Clone this repo
 1. Change directory `cd Agentic-ALLEGRO`
 1. Install the dependencies `pip install anthropic allegro-bio`
-1. Download the [ALLEGRO Jumpstart dataset](https://github.com/AmirUCR/allegro-data)
+1. Download the [ALLEGRO Jumpstart dataset](https://github.com/AmirUCR/allegro-data) `git clone https://github.com/AmirUCR/allegro-data.git`
 1. Run Claude x ALLEGRO `python main.py`
 1. You are now talking to Claude.
 1. Ask it to `describe ALLEGRO's parameters`
