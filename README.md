@@ -17,3 +17,5 @@ Here's how it works:
 1. Sit back and watch the magic happen
 
 https://github.com/user-attachments/assets/ccd6902c-02e1-4d19-b472-672d317ae5db
+
+If the embedded video above doesn't work, here's a [mirror](https://www.youtube.com/watch?v=zPyxFvZS4ms)
