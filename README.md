@@ -8,7 +8,7 @@ Here's how you can do exactly that:
 1. Set your API key for this terminal session: `export ANTHROPIC_API_KEY=sk-ant-api...`
 1. Clone this repo
 1. Change directory `cd Agentic-ALLEGRO`
-1. Install the dependencies `pip install anthropic allegro-bio`
+1. Install the dependencies `pip install --no-user anthropic allegro-bio`
 1. Download the [ALLEGRO Jumpstart dataset](https://github.com/AmirUCR/allegro-data) `git clone https://github.com/AmirUCR/allegro-data.git`
 1. Run Claude x ALLEGRO `python main.py`
 1. You are now talking to Claude. Ask it to `describe ALLEGRO's parameters`
