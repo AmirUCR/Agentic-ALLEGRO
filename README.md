@@ -1,7 +1,7 @@
 # Agentic ALLEGRO
 Our collaborators found configuring [ALLEGRO](https://github.com/ucrbioinfo/ALLEGRO) for their experiments too daunting of a task. So I made this repo.
 
-ALLEGRO has a big and maybe confusing [config](https://github.com/AmirUCR/allegro-data/blob/master/config.yaml) – In an ideal world, you describe your experimental needs to the ghost in the machine, and [It Just Works™](https://www.youtube.com/watch?v=qmPq00jelpc)
+ALLEGRO has a big and maybe confusing [config](https://github.com/AmirUCR/allegro-data/blob/master/config.yaml) – In an ideal world, you describe your experimental needs to the ghost in the machine, and [It Just Works™](https://youtu.be/qmPq00jelpc?t=8)
 
 Here's how it works:
 1. Get an [Anthropic API key](https://platform.claude.com/) (you need $5 for this) and SAVE it
