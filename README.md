@@ -1,5 +1,5 @@
-# Agentic ALLEGRO
-Our collaborators found configuring [ALLEGRO](https://github.com/ucrbioinfo/ALLEGRO) for their experiments too daunting of a task. So I made this repo.
+# Introduction
+Our collaborators found configuring [ALLEGRO](https://github.com/ucrbioinfo/ALLEGRO) for their experiments too daunting of a task. So I made a Claude AI assistant for it.
 
 ALLEGRO has a big and maybe confusing [config](https://github.com/AmirUCR/allegro-data/blob/master/config.yaml) – In an ideal world, you describe your experimental needs to the ghost in the machine, and [It Just Works™](https://youtu.be/qmPq00jelpc?t=8)
 
@@ -19,3 +19,9 @@ Here's how it works:
 https://github.com/user-attachments/assets/ccd6902c-02e1-4d19-b472-672d317ae5db
 
 If the embedded video above doesn't work, here's a [mirror](https://www.youtube.com/watch?v=zPyxFvZS4ms)
+
+# Support
+If you run into any issues or have suggestions for Agentic ALLEGRO, please report them on our GitHub Issues tracker. It's the fastest way to get support and helps us improve Agentic ALLEGRO for everyone.
+
+# About
+Agentic ALLEGRO has been developed and is maintained by <ins>Amir</ins>sadra Mohseni at the University of California, Riverside.
