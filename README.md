@@ -12,7 +12,8 @@ Here's how you can do exactly that:
 1. Download the [ALLEGRO Jumpstart dataset](https://github.com/AmirUCR/allegro-data) `git clone https://github.com/AmirUCR/allegro-data.git`
 1. Run Claude x ALLEGRO `python main.py`
 1. You are now talking to Claude. Ask it to `describe ALLEGRO's parameters`
-1. Once you read what options there are, explain where your input is, and how you want your experiment set up. Here's what I asked for 
+1. Once you read what options there are, explain where your input is, and how you want your experiment set up. Here's what I asked for
+   
     >"my input is under allegro-data/data/input/example_input/ - manifest under allegro-data/data/input/two.csv - experiment is cas9 with NGG and multi = 2 - track e - no offtarget analysis, no scoring"
 1. You may also run a single query `python main.py --once "describe ALLEGRO's parameters"`
 1. Sit back and watch the magic happen
