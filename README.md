@@ -26,4 +26,4 @@ If the embedded video above doesn't work, here's a [mirror](https://www.youtube.
 If you run into any issues or have suggestions for Agentic ALLEGRO, please report them on our GitHub Issues tracker. It's the fastest way to get support and helps us improve Agentic ALLEGRO for everyone.
 
 # About
-Agentic ALLEGRO has been developed and is maintained by <ins>Amir</ins>sadra Mohseni at the University of California, Riverside.
+Agentic ALLEGRO has been developed and is maintained by <ins>Amir</ins>sadra Mohseni and Stefano Lonardi at the University of California, Riverside.
